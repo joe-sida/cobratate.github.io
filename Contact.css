@@ -3,7 +3,8 @@ html {
   width: 100%;
   height: 100%;
   font-family: 'Montserrat', sans-serif;
-  background: url(blur.jpg) no-repeat center center fixed; 
+  background: url(tate.jpg) no-repeat center center fixed;
+  background-size: contain; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -33,6 +34,11 @@ html {
 h2{
 	color: #fafcff;
 }
+h4{
+color: #fafcff;
+padding: 0px auto;
+}
+
 ul < li {
 	text-align: center;
 	color: white;
